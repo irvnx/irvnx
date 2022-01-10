@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="center"> Hello there! 👋, I'm Deepak </h2>
+<h2 align="center"> Hello there! 👋 I'm Deepak </h2>
 
 ## I'm an Aspiring Data Scientist !!
 
