@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h2 align="center"> Hello there! 👋 I'm Deepak </h2>
 
 ## I'm an Aspiring Data Scientist !!
@@ -25,13 +24,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently Pursuing a program “ IIT Certified Programming Professional & Master Data Science” at GUVI Geek Network Pvt Ltd.,
 
-- 🥅 2022 Goals: Master Data Science and get certified @GUVI.
+- 🥅 2022 Goals: Acquire Skills required for Data Science and get certified @GUVI.
 
 - 👯 I’m looking for an opportunity to get placed in a firm for real time experience, wherein I can improve my knowledge and skills for sustainability.
 
-- ⚡ Fun fact: Mechanical Engineer trying to get a career transition.
+- ⚡ Fun fact: Mechanical Engineer with working experience in IT, looking for a career transition into Data Science.
 
-- 📫 How to reach me: dpk9695@gmail.com;
+- 📫 How to reach me: dpk9695@gmail.com
 
 <br />
 
@@ -42,44 +41,34 @@ Here are some ideas to get you started:
 <a href="mailto:dpk9695@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Deepak" height="30" width="40" /></a>
 </p>
 
-<h2>Skills</h2>
+<br />
+
+<p width="100%" align="center">
+          <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irvnx&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irvnx&theme=tokyonight" />
+</p>
+
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=irvnx&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
+
+<h2>Skills/Tools/Languages and Databases:</h2>
 <p> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/numpy-icon.svg" alt="numpy" height="70"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" alt="pandas" height="70"/>
-<img src="https://user-images.githubusercontent.com/88354341/145476786-f8aec111-d310-4479-88a6-b107294124e6.png"  height="70"/>
-<img src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" alt="tensorflow" height="70">
-<img src="https://i1.wp.com/www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png?fit=350%2C350&ssl=1" alt="powerbi" height="70"/>
-</p>
-
-</p>
-
-<h3>IDEs</h3>
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="Pycharm" height="70">
-<img src="https://img.icons8.com/dusk/64/000000/anaconda.png"  alt="anaconda" height="70">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" height="70">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="70">
-</p>
-<h3>Databases:</h3>
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="Mongodb" height="70">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="70">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="60"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/numpy-icon.svg" alt="numpy" height="60"/>
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" alt="pandas" height="60"/>
+<img src="https://user-images.githubusercontent.com/88354341/145476786-f8aec111-d310-4479-88a6-b107294124e6.png"  height="60"/>
+<img src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" alt="tensorflow" height="60">
+<img src="https://i1.wp.com/www.bconcepts.pt/wp-content/uploads/2019/04/PowerBI-Logo.png?fit=350%2C350&ssl=1" alt="powerbi" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="Pycharm" height="60">
+<img src="https://img.icons8.com/dusk/64/000000/anaconda.png"  alt="anaconda" height="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" height="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="Mongodb" height="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="60">
 </p>
 
 ### Github Trophies:-
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=irvnx&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=irvnx&theme=dracula"/>
   </a>
-</p>
-
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=irvnx&theme=xcode" alt="deepak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irvnx&theme=dark" alt="deepak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irvnx&show_icons=true&theme=dark&count_private=true" alt="deepak" />
 </p>
