@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">
+<h1 align="center">
 <img src="https://media3.giphy.com/media/QLjDyhP2G9vKtQgziv/giphy.gif" height="100" align="left" />
- Hello there! 👋 I'm Deepak
+ Hello there! 👋 
 <img src="https://media2.giphy.com/media/wTnwd842YQwN2Ki3hY/giphy.gif?cid=790b7611da802879a171e68b339dd12a52127be2c7b974b7&rid=giphy.gif&ct=sf" height="100" align="right" />
-</h2>
-<h2 align="center"> I'm an Aspiring Data Scientist !! </h2>
+</h1>
+<h2 align="center"> I'm Deepak :arrow_right: An aspiring Data Scientist !! </h2>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
