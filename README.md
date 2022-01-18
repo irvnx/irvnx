@@ -43,10 +43,11 @@ Here are some ideas to get you started:
 
 <br />
 
-<p width="100%" align="center">
-          <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irvnx&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irvnx&theme=tokyonight" />
-</p>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=irvnx&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvnx&layout=compact" />
+</div>
+
 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=irvnx&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
 
