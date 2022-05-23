@@ -18,17 +18,13 @@ Here are some ideas to get you started:
  Hello there! 👋 
 <img src="https://media2.giphy.com/media/wTnwd842YQwN2Ki3hY/giphy.gif?cid=790b7611da802879a171e68b339dd12a52127be2c7b974b7&rid=giphy.gif&ct=sf" height="100" align="right" />
 </h1>
-<h2 align="center"> I'm Deepak :arrow_right: Aspiring Data Scientist and Budding Azure Admin !! </h2>
+<h2 align="center"> Welcome :arrow_right: I'm Deepak !! </h2>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
 - 🔭 Have worked as a Senior Software Engineer at Cognizant Technology Solutions for 2.5 years.
 
-- 🌱 I’m currently Pursuing a program “ IIT Certified Programming Professional & Master Data Science” at GUVI Geek Network Pvt Ltd., and "Microsoft Azure" at Besant Technologies, Chennai.
-
-- 🥅 2022 Goals: Acquire Skills required for Data Science and Microsoft Azure and get certified.
-
-- 👯 I’m looking for an opportunity to get placed in a firm for real time experience, wherein I can improve my knowledge and skills for sustainability.
+- 🌱 IIT-M Certified Programming Professional with Data Science Mastery at GUVI Geek Network Pvt Ltd., Chennai.
 
 - ⚡ Mechanical Engineer with working experience in IT, looking for a better opportunity and a career transition.
 
