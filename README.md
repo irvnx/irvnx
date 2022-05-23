@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 </h1>
 <h2 align="center"> Welcome :arrow_right: I'm Deepak !! </h2>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
-
-- 🔭 Have worked as a Senior Software Engineer at Cognizant Technology Solutions for 2.5 years.
+- 🔭 Have worked as a Senior Systems Engineer at Cognizant Technology Solutions for 2.5 years.
 
 - 🌱 IIT-M Certified Programming Professional with Data Science Mastery at GUVI Geek Network Pvt Ltd., Chennai.
 
