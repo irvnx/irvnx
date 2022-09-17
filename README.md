@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 </h1>
 <h2 align="center"> Welcome :arrow_right: I'm Deepak !! </h2>
 
-- 🔭 Have worked as a Senior Systems Engineer at Cognizant Technology Solutions for 2.5 years.
+- 🔭 Currently working as a Software developer at Straive SPi Global.
+
+- :pushpin: Having 2.5 years of work experience as a Senior Systems Engineer at Cognizant Technology Solutions.
 
 - 🌱 IIT-M Certified Programming Professional with Data Science Mastery at GUVI Geek Network Pvt Ltd., Chennai.
 
-- ⚡ Mechanical Engineer with working experience in IT, looking for a better opportunity and a career transition.
+- ⚡ Mechanical Engineer with working experience in IT, eager to learn new technologies and looking for a better opportunity.
 
 - 📫 How to reach me: dpk9695@gmail.com
 
